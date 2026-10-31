@@ -1,0 +1,8 @@
+opencv-python
+numpy
+streamlit
+scipy
+pandas
+matplotlib
+groq
+load_dotenv
